@@ -1,0 +1,11 @@
+C:\Users\Robert\Desktop\APP VISUAL\Aula29-08Vereadores\Aula29-08Vereadores\obj\Debug\Aula29-08Vereadores.csproj.AssemblyReference.cache
+C:\Users\Robert\Desktop\APP VISUAL\Aula29-08Vereadores\Aula29-08Vereadores\obj\Debug\Aula29-08Vereadores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robert\Desktop\APP VISUAL\Aula29-08Vereadores\Aula29-08Vereadores\obj\Debug\Aula29_08Vereadores.Form1.resources
+C:\Users\Robert\Desktop\APP VISUAL\Aula29-08Vereadores\Aula29-08Vereadores\obj\Debug\Aula29_08Vereadores.Properties.Resources.resources
+C:\Users\Robert\Desktop\APP VISUAL\Aula29-08Vereadores\Aula29-08Vereadores\obj\Debug\Aula29-08Vereadores.csproj.GenerateResource.cache
+C:\Users\Robert\Desktop\APP VISUAL\Aula29-08Vereadores\Aula29-08Vereadores\obj\Debug\Aula29-08Vereadores.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\APP VISUAL\Aula29-08Vereadores\Aula29-08Vereadores\bin\Debug\Aula29-08Vereadores.exe.config
+C:\Users\Robert\Desktop\APP VISUAL\Aula29-08Vereadores\Aula29-08Vereadores\bin\Debug\Aula29-08Vereadores.exe
+C:\Users\Robert\Desktop\APP VISUAL\Aula29-08Vereadores\Aula29-08Vereadores\bin\Debug\Aula29-08Vereadores.pdb
+C:\Users\Robert\Desktop\APP VISUAL\Aula29-08Vereadores\Aula29-08Vereadores\obj\Debug\Aula29-08Vereadores.exe
+C:\Users\Robert\Desktop\APP VISUAL\Aula29-08Vereadores\Aula29-08Vereadores\obj\Debug\Aula29-08Vereadores.pdb
